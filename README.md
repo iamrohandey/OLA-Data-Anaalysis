@@ -12,3 +12,16 @@ Pandas
 NumPy
 Seaborn
 Matplotlib
+
+## 📈 Power BI Dashboard – OLA Bookings Overview
+
+This dashboard presents insights from OLA booking data for the period 01-07-2024 to 28-07-2024. It highlights:
+
+- 🚕 Total Bookings: 93.15K
+- 💰 Total Value: ₹32 Million
+- 📊 Trends in ride volume across dates
+- ✅ Breakdown of booking statuses
+- 🧭 Navigation tabs for details on vehicle types, revenue, cancellations, and ratings
+
+Crafted to support better decision-making through visual analytics.
+![OLA Bookings Dashboard]([assets/ola_dashboard.png](https://github.com/iamrohandey/OLA-Data-Anaalysis/blob/8a5b772df09d0162ae7c462a59c89724899e54c6/Ola%20Dashboard.png))
